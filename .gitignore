@@ -1,0 +1,7 @@
+# Binaries
+terraform-provider-foac
+
+# Terraform testing
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup

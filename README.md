@@ -1,6 +1,6 @@
 # FOAC - Terraform Provider for FOAAS
 
-FOAC (Fuck Off as Code) Terraform provider is a wrapper for the FOAAS (Fuck Off as a Service) REST API.
+FOAC (Fuck Off as Code) Terraform provider is a wrapper for the [FOAAS](https://foaas.com/) (Fuck Off as a Service) API.
 
 # Build
 
